@@ -1,4 +1,4 @@
-# revisaoCshap
+# revisaoCsharp
 # Primeiros passos com .NET + C# 
 O objetivo é Criar uma aplicação onde se pode adicionar alunos,lista-los e mostrar a média geral.
 Colocando em prática os conhecimentos aprendidos no curso de introdução ao .NET + C#.
