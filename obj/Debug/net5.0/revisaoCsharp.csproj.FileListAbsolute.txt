@@ -1,0 +1,16 @@
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/bin/Debug/net5.0/revisaoCsharp
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/bin/Debug/net5.0/revisaoCsharp.deps.json
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/bin/Debug/net5.0/revisaoCsharp.runtimeconfig.json
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/bin/Debug/net5.0/revisaoCsharp.runtimeconfig.dev.json
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/bin/Debug/net5.0/revisaoCsharp.dll
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/bin/Debug/net5.0/ref/revisaoCsharp.dll
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/bin/Debug/net5.0/revisaoCsharp.pdb
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/obj/Debug/net5.0/revisaoCsharp.csprojAssemblyReference.cache
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/obj/Debug/net5.0/revisaoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/obj/Debug/net5.0/revisaoCsharp.AssemblyInfoInputs.cache
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/obj/Debug/net5.0/revisaoCsharp.AssemblyInfo.cs
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/obj/Debug/net5.0/revisaoCsharp.csproj.CoreCompileInputs.cache
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/obj/Debug/net5.0/revisaoCsharp.dll
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/obj/Debug/net5.0/ref/revisaoCsharp.dll
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/obj/Debug/net5.0/revisaoCsharp.pdb
+/home/wbu/Documentos/Workspace/csharp_DIO/revisaoCsharp/obj/Debug/net5.0/revisaoCsharp.genruntimeconfig.cache
